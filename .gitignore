@@ -141,3 +141,7 @@ spider2-lite/resource/databases/spider2-localdb
 credentials/
 **/credentials/
 
+# travvy's
+*.zip
+context.txt
+*.csv

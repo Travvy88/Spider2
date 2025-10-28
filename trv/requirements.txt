@@ -1,3 +1,10 @@
 sentencepiece
 duckdb
 transformers
+tqdm
+sqlalchemy
+psycopg2-binary  # PostgreSQL
+google-cloud-bigquery[sqlalchemy]  # BigQuery
+snowflake-sqlalchemy  # Snowflake
+pyhive[sqlalchemy]  # Spark/Hive
+trino[sqlalchemy]  # Trino
